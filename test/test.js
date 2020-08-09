@@ -15,7 +15,7 @@ describe("Verification", function() {
         signer = addresses[1];
     })
 
-    // Test objective: To check that signature generated here in the script stored, as is, in the contract.
+    // Test objective: To check that signature generated here in the script is stored, as is, in the contract.
     it("Should verify that signature in the contract and the ethers script are identical", async function() {
 
         const _hash = await verify.hash();
