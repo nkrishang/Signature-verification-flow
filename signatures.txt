@@ -1,0 +1,13 @@
+Message: sha3 / keccak256 "OpenZeppelin"
+
+Truffle test:
+
+Message hash:   0x7dbaf558b0a1a5dc7a67202117ab143c1d8605a983e4a743bc06fcc03162dc0d
+Signer address: 0xc783df8a850f42e7F7e57013759C285caa701eB6
+Signature:  0xd1bfc472f17dca0358219439d755499807de9526daf94123b87128c01b89bde338d7e7b6d3204f66a1cfba3e63ce935b7a19d2801ad09f1f4ab2ec5b6b1e7cc11b
+
+Waffle test: 
+
+Message hash:   0x7dbaf558b0a1a5dc7a67202117ab143c1d8605a983e4a743bc06fcc03162dc0d
+Signer address: 0xc783df8a850f42e7F7e57013759C285caa701eB6
+Signature:  0x864a9fa540aff18d10b23ddfb431edd9c6169e560ac1badcae86c33e32e3814a1fa2fed02eb18530eead763738a80b6d5f950a2131242b1002271930ba3ce49d1c
